@@ -202,7 +202,7 @@ footer {
 
 footer .button {
     height: 56px;
-    background: #04D361;
+    background: #8257E6;
     border: 0;
     boder-radius: 16px;
     font-family: 'Archivo';
@@ -213,7 +213,7 @@ footer .button {
 }
 
 footer .button:hover {
-    background: #08A04C;
+    background: #633BBC;
 }
 
 input:invalid {
